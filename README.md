@@ -1,7 +1,7 @@
 # HW_protein_seq_analysis
 Comparison of classification methods of protein classes
 
-[Colab notebook](https://colab.research.google.com/drive/166LLGFs_-A2iKPHYan8aNRrDNE3Q0tiA?usp=sharing) чтоб удобней смотреть
+[Colab notebook](https://colab.research.google.com/drive/166LLGFs_-A2iKPHYan8aNRrDNE3Q0tiA?usp=sharing) чтоб удобней смотреть, однако там не видна часть графиков
 
 
 ## Обзор ресурсов
